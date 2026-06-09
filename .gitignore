@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs y datos de pruebas
+*.log
+*.tmp
+*.checkpoint
+EpiGraph/
+
+# Archivos de configuración dinámicos (Nodos)
+nodefile.dat
+nodefile2.dat
+
+# Archivos de entorno y sistema
+.DS_Store
+.vscode/
+.idea/
